@@ -6,7 +6,7 @@ jupyter
 ipython
 
 # local package
--e .
+# -e .
 
 # external requirements
 dvc
