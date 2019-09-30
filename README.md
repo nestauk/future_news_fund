@@ -1,7 +1,7 @@
 Future_News_Fund
 ==============================
 
-A short description of the project.
+A repository for analysis for the Future News Fund project.
 
 Project Organization
 ------------
